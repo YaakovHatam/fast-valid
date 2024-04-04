@@ -1,0 +1,1 @@
+export const falsyValuesOperator = (factValue: any, jsonValue: any) => !!factValue;

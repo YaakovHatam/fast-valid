@@ -1,0 +1,13 @@
+{
+  "name": "fast-valid",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": ">=14",
+    "@angular/core": ">=14"
+  },
+  "dependencies": {
+    "json-rules-engine": "^6.5.0",
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
